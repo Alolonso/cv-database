@@ -1,0 +1,366 @@
+{
+    "experience": [
+        {
+            "id": "1",
+            "title": "Centauro Solutions",
+            "position": "Intern | October 2022 - December 2022",
+            "jobs": [
+                "Web Application Development",
+                "Development Documentation",
+                "Development with OutSystems"
+            ]
+        }
+    ],
+
+    "soft": [
+        "Teamwork",
+        "Time management",
+        "Self-starter",
+        "Communication skills",
+        "Adaptability",
+        "Collaboration",
+        "Responsibility"
+    ],
+
+    "technologies": [
+        "React.js",
+        "Vite.js",
+        "Sass"
+    ],
+
+    "languages": [
+        "Native Spanish",
+        "English B1"
+    ],
+
+    "tools": [
+        {
+            "id": "1",
+            "icon": "https://alolonso.github.io/cv-database/src/icons/javascript.svg",
+            "title": "JavaScript"
+        },
+        {
+            "id": "2",
+            "icon": "https://alolonso.github.io/cv-database/src/icons/html.svg",
+            "title": "HTML"
+        },
+        {
+            "id": "3",
+            "icon": "https://alolonso.github.io/cv-database/src/icons/css.svg",
+            "title": "CSS"
+        },
+        {
+            "id": "4",
+            "icon": "https://alolonso.github.io/cv-database/src/icons/notion.svg",
+            "title": "Notion"
+        },
+        {
+            "id": "5",
+            "icon": "https://alolonso.github.io/cv-database/src/icons/figma.svg",
+            "title": "Figma"
+        },
+        {
+            "id": "6",
+            "icon": "https://alolonso.github.io/cv-database/src/icons/git.svg",
+            "title": "Git"
+        },
+        {
+            "id": "7",
+            "icon": "https://alolonso.github.io/cv-database/src/icons/github.svg",
+            "title": "GitHub"
+        },
+        {
+            "id": "8",
+            "icon": "https://alolonso.github.io/cv-database/src/icons/npm.svg",
+            "title": "npm"
+        },
+        {
+            "id": "9",
+            "icon": "https://alolonso.github.io/cv-database/src/icons/react.svg",
+            "title": "React.js"
+        },
+        {
+            "id": "10",
+            "icon": "https://alolonso.github.io/cv-database/src/icons/vite.svg",
+            "title": "Vite.js"
+        },
+        {
+            "id": "11",
+            "icon": "https://alolonso.github.io/cv-database/src/icons/sass.svg",
+            "title": "Sass"
+        }
+    ],
+
+    "academic": [
+        {
+            "id": "1",
+            "image": "https://alolonso.github.io/cv-database/src/certificates/academics/bachiller-educacion-media-2022.png",
+            "icon": "https://alolonso.github.io/cv-database/src/icons/casc.png",
+            "title": "Bachiller en educación media",
+            "academy": "Colegio Agropecuario de San Carlos"
+        },
+        {
+            "id": "2",
+            "image": "https://alolonso.github.io/cv-database/src/certificates/academics/tecnico-medio-2022.png",
+            "icon": "https://alolonso.github.io/cv-database/src/icons/casc.png",
+            "title": "Técnico Medio",
+            "academy": "Colegio Agropecuario de San Carlos"
+        },
+        {
+            "id": "3",
+            "image": "https://alolonso.github.io/cv-database/src/certificates/academics/prueba-dominio-linguistico-ingles-2022.png",
+            "icon": "https://alolonso.github.io/cv-database/src/icons/ucr.png",
+            "title": "Prueba PELEx de Dominio Lingüístico en Inglés",
+            "academy": "Universidad de Costa Rica"
+        }
+    ],
+
+    "courses": [
+        {
+            "id": "1",
+            "image": "https://alolonso.github.io/cv-database/src/certificates/courses/operador-tecnologias-informacion-comunicacion-2022.png",
+            "icon": "https://alolonso.github.io/cv-database/src/icons/ina.png",
+            "title": "Operador(a) de tecnologías de información y comunicación",
+            "academy": "Instituto Nacional de Aprendizaje"
+        }
+    ],
+
+    "web": [
+        {
+            "id": "1",
+            "icon": "https://static.platzi.com/media/achievements/1050-bfb74f83-8e2e-4ff7-a66d-77d2c0067908.png",
+            "title": "Curso Básico de Programación",
+            "academy": "Platzi",
+            "date": "January 30,2023",
+            "instructor": "Freddy Vega",
+            "link": "https://platzi.com/p/Alolonso/curso/1050-basico-programacion/diploma/detalle/"
+        },
+        {
+            "id": "2",
+            "icon": "https://static.platzi.com/media/achievements/badge-basicojs-e2ead888-428e-4f55-962c-8894aeaeacda.png",
+            "title": "Curso Básico de JavaScript",
+            "academy": "Platzi",
+            "date": "February 14, 2023",
+            "instructor": "Diego De Granda",
+            "link": "https://platzi.com/p/Alolonso/curso/1814-basico-javascript/diploma/detalle/"
+        },
+        {
+            "id": "3",
+            "icon": "https://static.platzi.com/media/achievements/piezas-basic-english-course-beginners_badge-4953fa05-f52d-4557-98e5-a64acf9f3827.png",
+            "title": "Curso de Inglés Básico A1: Conversaciones Cortas y Habituales",
+            "academy": "Platzi",
+            "date": "March 06, 2023",
+            "instructor": "Gina Pedraza",
+            "link": "https://platzi.com/p/Alolonso/curso/1945-ingles-principiantes/diploma/detalle/"
+        },
+        {
+            "id": "4",
+            "icon": "https://static.platzi.com/media/achievements/badge-prework-configuracion-entorno-windows-8b168efb-2001-4f5e-938f-a333861ab31d.png",
+            "title": "Curso de Prework: Configuración de Entorno de Desarrollo en Windows",
+            "academy": "Platzi",
+            "date": "March 10, 2023",
+            "instructor": "Ricardo Celis",
+            "link": "https://platzi.com/p/Alolonso/curso/2042-prework-windows/diploma/detalle/"
+        },
+        {
+            "id": "5",
+            "icon": "https://static.platzi.com/media/achievements/badge-terminal-5c5518b5-43d0-4387-b39e-3d85db446c5f.png",
+            "title": "Curso de Introducción a la Terminal y Línea de Comandos",
+            "academy": "Platzi",
+            "date": "March 17, 2023",
+            "instructor": "Enrique Devars",
+            "link": "https://platzi.com/p/Alolonso/curso/2292-terminal/diploma/detalle/"
+        },
+        {
+            "id": "6",
+            "icon": "https://static.platzi.com/media/achievements/piezas-taller-ingles-principiantes_badge-1-56da5912-2828-48f3-9879-0ab93c1c3d3d.png",
+            "title": "Taller de Inglés Básico para Descripciones Personales",
+            "academy": "Platzi",
+            "date": "March 21, 2023",
+            "instructor": "Jess Harris",
+            "link": "https://platzi.com/p/Alolonso/curso/2005-taller-descripciones-personales/diploma/detalle/"
+        },
+        {
+            "id": "7",
+            "icon": "https://static.platzi.com/media/achievements/piezas-notion_badge-5f153a8d-185a-4789-bc56-1e4fe46bf358.png",
+            "title": "Curso de Notion",
+            "academy": "Platzi",
+            "date": "April 16, 2023",
+            "instructor": "Alex Camacho",
+            "link": "https://platzi.com/p/Alolonso/curso/4953-notion/diploma/detalle/"
+        },
+        {
+            "id": "8",
+            "icon": "https://static.platzi.com/media/achievements/piezas-landing-figma-badge-ab8da3b1-414d-4c0e-a4d7-711dfbb7b770.png",
+            "title": "Curso de Figma: Prototipado e Interfaces",
+            "academy": "Platzi",
+            "date": "April 24, 2023",
+            "instructor": "Santiago Camargo",
+            "link": "https://platzi.com/p/Alolonso/curso/4038-figma-basico/diploma/detalle/"
+        },
+        {
+            "id": "9",
+            "icon": "https://static.platzi.com/media/achievements/badge-github-0b729570-934d-47d8-ba6b-610d7f15e0ec.png",
+            "title": "Curso Profesional de Git y GitHub",
+            "academy": "Platzi",
+            "date": "May 02, 2023",
+            "instructor": "Freddy Vega",
+            "link": "https://platzi.com/p/Alolonso/curso/1557-git-github/diploma/detalle/"
+        },
+        {
+            "id": "10",
+            "icon": "https://static.platzi.com/media/achievements/badges-html-css-afa64acb-64a4-486d-96a5-f930fbb7ee32.png",
+            "title": "Curso Definitivo de HTML y CSS",
+            "academy": "Platzi",
+            "date": "May 10, 2023",
+            "instructor": "Diego De Granda",
+            "link": "https://platzi.com/p/Alolonso/curso/2008-html-css/diploma/detalle/"
+        },
+        {
+            "id": "11",
+            "icon": "https://static.platzi.com/media/achievements/curso-ingles-basico-a1-para-principiantes_badge-65b8b027-2451-488b-b282-80077d60d62.png",
+            "title": "Curso de Inglés Básico A1 para Principiantes",
+            "academy": "Platzi",
+            "date": "May 10, 2023",
+            "instructor": "Kyra Sage",
+            "link": "https://platzi.com/p/Alolonso/curso/3093-ingles-basico-principiantes/diploma/detalle/"
+        },
+        {
+            "id": "12",
+            "icon": "https://static.platzi.com/media/achievements/badge-curso-frontend-developer-825407d1-49b1-4c9b-90c4-eee793720ede.png",
+            "title": "Curso de Frontend Developer",
+            "academy": "Platzi",
+            "date": "May 12, 2023",
+            "instructor": "Estefany Aguilar",
+            "link": "https://platzi.com/p/Alolonso/curso/2467-frontend-developer/diploma/detalle/"
+        },
+        {
+            "id": "13",
+            "icon": "https://static.platzi.com/media/achievements/badge-curso-practico-frontend-developer-d28c2eb0-cd3e-4951-bb96-5f1bcab2add5.png",
+            "title": "Curso Práctico de Frontend Developer",
+            "academy": "Platzi",
+            "date": "May 15, 2023",
+            "instructor": "Estefany Aguilar",
+            "link": "https://platzi.com/p/Alolonso/curso/2477-frontend-developer-practico/diploma/detalle/"
+        },
+        {
+            "id": "14",
+            "icon": "https://static.platzi.com/media/achievements/badge-asincro-js-9f17b092-47d0-4c8a-a59d-67714aa18db3.png",
+            "title": "Curso de Asincronismo con JavaScript",
+            "academy": "Platzi",
+            "date": "June 02, 2023",
+            "instructor": "Oscar Barajas Tavares",
+            "link": "https://platzi.com/p/Alolonso/curso/3175-asincronismo-js/diploma/detalle/"
+        },
+        {
+            "id": "15",
+            "icon": "https://static.platzi.com/media/achievements/aprender-ingles-online_badge-8a97002a-7427-4e19-862b-b155e9a57c25.png",
+            "title": "Curso Gratis de Estrategias para Aprender Inglés en Línea",
+            "academy": "Platzi",
+            "date": "June 06, 2023",
+            "instructor": "Profesores Platzi",
+            "link": "https://platzi.com/p/Alolonso/curso/2633-estrategias-ingles/diploma/detalle/"
+        },
+        {
+            "id": "16",
+            "icon": "https://static.platzi.com/media/achievements/badge-escmascript-historia-92707485-a3f2-4946-91f0-fb0291f5887d.png",
+            "title": "Curso de ECMAScript: Historia y Versiones de JavaScript",
+            "academy": "Platzi",
+            "date": "June 12, 2023",
+            "instructor": "Oscar Barajas Tavares",
+            "link": "https://platzi.com/p/Alolonso/curso/3504-ecmascript-6/diploma/detalle/"
+        },
+        {
+            "id": "17",
+            "icon": "https://static.platzi.com/media/achievements/badge-npm-js-c48fb4c0-a4d3-4773-b3ca-e9f25c543d0e.png",
+            "title": "Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript",
+            "academy": "Platzi",
+            "date": "June 24, 2023",
+            "instructor": "Oscar Barajas Tavares",
+            "link": "https://platzi.com/p/Alolonso/curso/3578-npm/diploma/detalle/"
+        },
+        {
+            "id": "18",
+            "icon": "https://static.platzi.com/media/achievements/practico-javascript_badge-fb533fa5-73c8-4f75-9d81-0294d9013ab5.png",
+            "title": "Curso Práctico de JavaScript",
+            "academy": "Platzi",
+            "date": "June 27, 2023",
+            "instructor": "Juan David Castro Gallego",
+            "link": "https://platzi.com/p/Alolonso/curso/3271-javascript-practico/diploma/detalle/"
+        },
+        {
+            "id": "19",
+            "icon": "https://static.platzi.com/media/achievements/piezas-basic-english-workshop-first-day-work_badge-d0a02f78-007c-4425-a96c-d9c7026c.png",
+            "title": "Taller de Inglés Básico sobre Elementos de Trabajo",
+            "academy": "Platzi",
+            "date": "July 04, 2023",
+            "instructor": "Gina Pedraza",
+            "link": "https://platzi.com/p/Alolonso/curso/3996-taller-elementos-trabajo/diploma/detalle/"
+        },
+        {
+            "id": "20",
+            "icon": "https://static.platzi.com/media/achievements/piezas-curso-de-ingles-basico-a1-presente-simple-y-vocabulario-comun_badge-caf91072.png",
+            "title": "Curso de Inglés Básico A1: Presente Simple y Vocabulario Común",
+            "academy": "Platzi",
+            "date": "July 06, 2023",
+            "instructor": "Jhon Carvajal",
+            "link": "https://platzi.com/p/Alolonso/curso/2393-presente-simple-vocabulario-comun/diploma/detalle/"
+        },
+        {
+            "id": "21",
+            "icon": "https://static.platzi.com/media/achievements/piezas_workshop-describing-family-members_badge-94a17c86-4fec-4cf2-8c02-fdd7d6e5715.png",
+            "title": "Taller de Inglés Básico sobre los Miembros de la Familia",
+            "academy": "Platzi",
+            "date": "July 08, 2023",
+            "instructor": "Lina Carrascal",
+            "link": "https://platzi.com/p/Alolonso/curso/3230-descripcion-familia/diploma/detalle/"
+        },
+        {
+            "id": "22",
+            "icon": "https://static.platzi.com/media/achievements/badge-ing-basico-a1-fechas-cca042ae-b01f-45aa-bc0f-5469ff035e5a.png",
+            "title": "Curso de Inglés Básico A1: Fechas, Horas y Expresiones Simples",
+            "academy": "Platzi",
+            "date": "July 18, 2023",
+            "instructor": "Jhon Carvajal",
+            "link": "https://platzi.com/p/Alolonso/curso/2395-fechas-horas-expresiones-simples/diploma/detalle/"
+        },
+        {
+            "id": "23",
+            "icon": "https://static.platzi.com/media/achievements/badge-ingles-basico-preguntas-respuestas-c0b161f1-dc03-4a53-95fc-aa42e891aa54.png",
+            "title": "Curso de Inglés Básico A2: Preguntas y Respuestas Comunes",
+            "academy": "Platzi",
+            "date": "July 18, 2023",
+            "instructor": "Gina Pedraza",
+            "link": "https://platzi.com/p/Alolonso/curso/4988-basico-preguntas-respuestas/diploma/detalle/"
+        },
+        {
+            "id": "24",
+            "icon": "https://static.platzi.com/media/achievements/piezas-landing-introduccion-react-js_badge-5cb7b891-69d3-4de4-bdab-1641b4c30312.png",
+            "title": "Curso de React.js",
+            "academy": "Platzi",
+            "date": "July 28, 2023",
+            "instructor": "Juan David Castro Gallego",
+            "link": "https://platzi.com/p/Alolonso/curso/7395-react/diploma/detalle/"
+        },
+        {
+            "id": "25",
+            "icon": "https://static.platzi.com/media/achievements/piezas-sass-primera-landing-page_badge-bdf04f6c-97a1-4faf-b6b5-286d4f4fefb3.png",
+            "title": "Curso de Fundamentos de Sass: Crea tu Primera Landing Page",
+            "academy": "Platzi",
+            "date": "July 30, 2023",
+            "instructor": "Ana María Díaz Solorio",
+            "link": "https://platzi.com/p/Alolonso/curso/6867-sass/diploma/detalle/"
+        }
+    ],
+
+    "projects": [
+        {
+            "id": "1",
+            "image": "https://alolonso.github.io/cv-database/src/projects/AlonsoCV.png",
+            "title": "AlonsoCV",
+            "description": "A small application with information about my skills, studies and projects.",
+            "link": "https://alonso-cv-portfolio.netlify.app/",
+            "repository": "https://github.com/Alolonso/cv-portfolio"
+        }
+    ]
+}
