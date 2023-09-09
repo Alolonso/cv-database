@@ -379,6 +379,14 @@
             "description": "A small application with information about my skills, studies and projects.",
             "link": "https://alolonso.github.io/cv-portfolio/",
             "repository": "https://github.com/Alolonso/cv-portfolio"
+        },
+        {
+            "id": "2",
+            "image": "https://alolonso.github.io/cv-database/src/projects/LearningAnimate.png",
+            "title": "Learning/Animate",
+            "description": "A personal project, dedicated to strengthen my knowledge in web page animations.",
+            "link": "https://alolonso.github.io/learning-to-animate/",
+            "repository": "https://github.com/Alolonso/learning-to-animate"
         }
     ]
 }
